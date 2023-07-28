@@ -10,6 +10,6 @@
 
 export default {
     async fetch(request, env, ctx) {
-      return new Response('Hello World from github action!');
+      return new Response('Hello World from github action after some updates!');
     },
   };
