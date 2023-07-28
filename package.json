@@ -1,6 +1,0 @@
-{
-  "name": "cloudflare-worker",
-  "dependencies": {
-    "wrangler": "^3.4.0"
-  }
-}
