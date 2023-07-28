@@ -1,6 +1,5 @@
 name: learn-github-actions
 run-name: ${{ github.actor }} is learning GitHub Actions
-uses: cloudflare/wrangler-action@2.0.0
 on: [push]
 jobs:
   deploy:
